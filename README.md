@@ -23,4 +23,4 @@ Building autonomous AI agents at the intersection of AI x Web3.
 - LLM integration
 
 ## Day 1
-Environment set up. GitHub live. The build starts now.
+Environment set up. GitHub live. First repository live.
